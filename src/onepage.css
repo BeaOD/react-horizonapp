@@ -1,0 +1,51 @@
+body{
+	height: 1000px;
+}
+.maini{
+	height:200px;
+	width: 100%;
+	object-fit:cover;
+}
+
+
+.cartypes{
+	margin-top: 30px;
+}
+
+.row2images{
+	height:200px;
+	width:100%;
+	margin-bottom: 15px;
+}
+
+.col-md-3{
+	height:200px;
+	width:100%;
+}
+
+/*.Image1{
+	height:200px;
+	width:100%;
+}*/
+.Image-12 {
+	width: 100%;
+}
+.Image12{
+	height:100px;
+	width:100%;
+}
+
+h3, p{
+	text-align: center;
+}
+
+.rowf{
+	height: 200px;
+	width:100%;
+	background-color: blue;
+}
+
+.col-md-4{
+	height: 200px;
+	width:100%;
+}
